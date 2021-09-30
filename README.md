@@ -119,4 +119,4 @@ Please note, there are **NO** predefined answers for the above questions. It is 
 
 2. Ensuring the findings or results in the submission can be effectively communicated and comprehended by the target audiences.
 
-3. (Optional) Python and Jupyter notebook are the main tools used in the team currently. Submission with similar tooling would potential make the evaluation process more smooth. However, the key focus is still on providing meaningful analysis and insights to the provided dataset. Therefore, submission with any other tooling such as R, scalar, power BI, tableau are also acceptable as long as sufficient and clear instructions and documentation are provide in the submission.
+3. (Optional) Python and Jupyter notebook are the main tools used in the team currently. Submission with similar tooling would potential make the evaluation process more smooth. However, the key focus is still on providing meaningful analysis and insights to the provided dataset. Therefore, submission with any other tooling such as R, scalar, power BI, tableau are also acceptable as long as sufficient and clear instructions and documentation are provided in the submission.
