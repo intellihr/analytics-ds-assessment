@@ -103,7 +103,7 @@ This sheet contains the employee happiness rating response data that are obtaine
 
 2. What are the key factors that could effect employee's happiness in Company XYZ?
 
-3. What's the likelihood of the employees staying more than 2 years in Company XYZ?
+3. What's the likelihood of the employees staying more than 2 years in Company XYZ? And what's the likelihood of the employees staying in the company given different tenures?
 
 4. Are there any other cool insights that you can show or share with Tony about Company XYZ?
 
